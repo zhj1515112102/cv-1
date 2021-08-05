@@ -1,0 +1,7 @@
+6
+37C:\Users\15151\Desktop\cv-1\dist\dist132726277819066592 1
+43C:\Users\15151\Desktop\cv-1\dist\index.html132726260915952520 0
+41C:\Users\15151\Desktop\cv-1\dist\index.js132726259639232868 0
+45C:\Users\15151\Desktop\cv-1\dist\index.js.map132726260915952520 0
+49C:\Users\15151\Desktop\cv-1\dist\main.1f19ae8e.js132726259639232868 0
+53C:\Users\15151\Desktop\cv-1\dist\main.1f19ae8e.js.map132726260915952520 0
